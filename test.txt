@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1446-90C2
+
+ Directory of C:\Users\SOHIT\demo_git\Demo
+
+08/03/2021  06:24 PM    <DIR>          .
+08/03/2021  06:24 PM    <DIR>          ..
+08/03/2021  06:08 PM               301 .gitignore
+08/03/2021  06:08 PM            11,558 LICENSE
+08/03/2021  06:08 PM                 6 README.md
+08/03/2021  06:24 PM                 0 test.txt
+               4 File(s)         11,865 bytes
+               2 Dir(s)  127,247,933,440 bytes free
